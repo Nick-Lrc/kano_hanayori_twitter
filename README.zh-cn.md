@@ -13,6 +13,7 @@
   - 建议使用笔记本或台式机进行阅读。
   - 和推特不同的是，本备份将所有推文按照时间顺序进行了排序（旧 &rightarrow; 新）。
 - 其他源代码可在 [kano_hanayori_twitter_workspace](https://github.com/Nick-Lrc/kano_hanayori_twitter_workspace) 中找到。
+  - 2021 年 6 月 19 日：正在进行第二轮代码重构。
 - 如有任何问题或建议请[联系我](mailto:itrust19@yahoo.com)。
 
 ![preview top](data/media/preview_top.png)

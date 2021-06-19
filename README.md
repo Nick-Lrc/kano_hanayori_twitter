@@ -13,6 +13,7 @@ Language: [English](README.md), [简体中文](README.zh-cn.md)
   - Reading with a laptop/desktop is recommended.
   - Unlike Twitter, this archive orders statuses chronologically (oldest &rightarrow; newest).
 - The workspace locates separately at [kano_hanayori_twitter_workspace](https://github.com/Nick-Lrc/kano_hanayori_twitter_workspace).
+  - Jun.19, 2021: Undergoing the 2nd round of refactoring.
 - Please [contact me](mailto:itrust19@yahoo.com) if you notice bugs or have suggestions.
 
 ![preview top](data/media/preview_top.png)
